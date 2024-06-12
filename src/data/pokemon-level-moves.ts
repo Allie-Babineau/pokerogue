@@ -333,6 +333,7 @@ export const pokemonSpeciesLevelMoves: PokemonSpeciesLevelMoves = {
     [ 32, Moves.FOCUS_ENERGY ],
     [ 36, Moves.ROOST ],
     [ 41, Moves.DRILL_PECK ],
+    [ 45, Moves.DRILL_RUN ],
   ],
   [Species.EKANS]: [
     [ 1, Moves.WRAP ],
